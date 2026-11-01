@@ -25,3 +25,5 @@ Esta es una **demostración con datos simulados para los filtros geográficos**.
 **Equipo:** Caballero Silva Dalia Montserrat, Pliego Méndez Alondra y Téllez Hernández Joel Shalom.
 
 *Proyecto académico basado en el documento técnico «¿Por qué no voto?». No es una página oficial del INE.*
+
+link a repositorio de datos: https://github.com/ShalomThz/ine-hackaton
